@@ -1,0 +1,11 @@
+Pick a Hero:
+1 - Knight
+A noble knight fighting in a deadly Arena? With a sword at your side, you are in the Arena by orders of your King, to claim the chamionship for the kingdom.
+Weapon: longsword
+2 - Viking
+A viking is good at one thing, and that is fighting. While exploring new lands you came across a fight worthy of your participation, the Arena Battle. Face down any that come across your path and make a name for yourself on Midgard and in Valhalla.
+Weapon: hammer
+3 - Samuari
+A Samurai is a silent and deadly warrior, so why has this Samurai stepped out of the shadows and into the light of the Arena. Become a Samurai Legend by fighting in the Arena.
+Weapon: katana
+4 - Hero Descriptions

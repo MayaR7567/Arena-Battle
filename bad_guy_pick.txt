@@ -1,0 +1,11 @@
+Pick a Foe:
+1 - The Assassin aka Severn the Wolf
+An Assassin is fast, deadly, and good at hunting down their prey. Severn is the best at what he does, and you won't find him unless he wants to be found, making his entrance in to the arena an unusal sight.
+Weapon: daggers
+2 - The Fighter aka Fenrir the Fierce
+A Fighter is simply brute force and nothing could be truer of Fenrir the Fierce. Known for his ability to defeat any foe, Fenrir is one of the most feared contestants in the Arena and not to be fought without risk.
+Weapon: axe
+3 - The Ninja aka Imagawa the Flower
+Ninjas have their secrets. Imagawa is a skilled fighter and as deadly as any. Known for her looks as well as her skills with a blade, Imagawa does not back down from a fight and has a few tricks up her sleeve.
+Weapon: katana
+4 - Foe Descriptions
